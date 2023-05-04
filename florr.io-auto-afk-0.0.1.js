@@ -1,16 +1,16 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @name         Florr.io Auto AFK
+// @namespace    https://github.com/IceCang
+// @version      0.0.1
+// @description  Auto AFK in florr.io
+// @author       liucang (3060272052@qq.com)
 // @match        https://florr.io/
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=florr.io
+// @icon         https://florr.io/favicon.ico
 // @grant        none
 // ==/UserScript==
 
 (function() {
     'use strict';
 
-    // Your code here...
+    alert("This is NOT done yet.")
 })();
